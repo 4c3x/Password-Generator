@@ -13,10 +13,10 @@ def generate_password():
                      "carrots",
                      "spain",
                      "happy",
-                     "jazz",
-                     "kangaroo",
-                     "lemon",
-                     "mango",
+                     "bazz",
+                     "kong",
+                     "ale",
+                     "mage",
                      "zebra"]
         return choice(word_list)
 
