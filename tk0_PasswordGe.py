@@ -6,12 +6,12 @@ from datetime import datetime
 
 def generate_password():
     def get_random_word():
-        word_list = ["apple",
+        word_list = ["brabus",
                      "banana",
-                     "cherry",
+                     "javelin",
                      "dog",
-                     "elephant",
-                     "giraffe",
+                     "carrots",
+                     "spain",
                      "happy",
                      "jazz",
                      "kangaroo",
